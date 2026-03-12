@@ -1,2 +1,1 @@
-# Tbhor-Bot
-This is discord bot
+/index.js
